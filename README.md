@@ -10,3 +10,4 @@ Linija C za rebase-i
 Linija D za cherry pick demo
 Linija d v.2 za cherrypick demo
 Nekaj za stashat
+Test za amend
